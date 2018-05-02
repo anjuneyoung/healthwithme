@@ -62,5 +62,5 @@ Documents
 
 
 
-<center>![ex_screenshot](./helpme.jpg)</center>
+[ex_screenshot](./helpme.jpg){.alignright}
 
