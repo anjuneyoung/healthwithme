@@ -58,5 +58,5 @@ Documents
 > - 개발간 업데이트 예정 
 
 ---------------------------------------------
+![ex_screenshot](./helpme.jpg)
 
-<img src="healthwithme/helpme.jpg">
