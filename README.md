@@ -59,5 +59,4 @@ Documents
 
 ---------------------------------------------
 
-![ex_screenshot](.helpme.jpeg)
-
+![ex_screenshot](healthwithme/helpme.jpg)
