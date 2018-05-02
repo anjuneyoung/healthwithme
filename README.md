@@ -59,4 +59,4 @@ Documents
 
 ---------------------------------------------
 
-![helpme](healthwithme/helpme.jpg)
+<img src="healthwithme/helpme.jpg">
