@@ -58,5 +58,9 @@ Documents
 > - 개발간 업데이트 예정 
 
 ---------------------------------------------
-![ex_screenshot](./helpme.jpg)
+
+
+
+
+<center>![ex_screenshot](./helpme.jpg)</center>
 
