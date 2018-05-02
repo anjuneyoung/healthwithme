@@ -61,6 +61,3 @@ Documents
 
 
 
-
-[ex_screenshot](./helpme.jpg)
-
